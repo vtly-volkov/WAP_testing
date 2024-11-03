@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+pytest
+allure-pytest
+pydantic
+pydantic-settings
+allure-python-commons
